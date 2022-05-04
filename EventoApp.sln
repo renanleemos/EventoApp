@@ -4,7 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventoApp.Web", "EventoApp.Web\EventoApp.Web.csproj", "{156ACB0C-B28E-42E5-99F5-CA6505E7BF36}"
-EndProject
+EndProject 
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventoApp.Api", "EventoApp.Api\EventoApp.Api.csproj", "{ABB8B9AE-28A9-4CF7-99CB-5AB96A6902C8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventoApp.Core", "EventoApp.Core\EventoApp.Core.csproj", "{703350B6-6742-40DA-90E3-C3ECD317FD61}"
